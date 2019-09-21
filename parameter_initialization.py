@@ -1,3 +1,5 @@
+# references: https://github.com/tz28/deep-learning/blob/master/compare_initializations.py
+
 #对比几种初始化方法
 import numpy as np
 import matplotlib.pyplot as plt
